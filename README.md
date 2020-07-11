@@ -19,6 +19,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/github-profile-views-counter">
 </a>
 
-Want to have views counter in your profile page? Take [GitHub Profile Views Counter] for the quick start.
+🤔 Want to have views counter in your profile page? Take [GitHub Profile Views Counter] for the quick start.
 
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
