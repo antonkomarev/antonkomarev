@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev">
 </a>
 
 🤔 Want to have views counter in your profile page? Take [GitHub Profile Views Counter] for the quick start.
