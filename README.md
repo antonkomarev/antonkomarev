@@ -1,4 +1,4 @@
-### Hey, folks! 👋 My name is Anton.
+### Hey, folks! 👋
 
 <!--
 **antonkomarev/antonkomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've been developing FOSS for many years, and I've always lacked features in GitHub statistics.
+My name is Anton. I've been developing FOSS for many years, and I've always lacked features in GitHub statistics.
 
 Feel same? 🚀 Start using [Ÿ HŸPE] to know what's going on with your professional profile! Improved GitHub statistics of profile views, followers and even more... 🤔 Still not sure about complex tools and just want simple public badge to count visitors? Take [GitHub Profile Views Counter].
 
