@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Anton. I've been developing FOSS for many years, and I've always lacked features in GitHub statistics.
+My name is Anton. I've been using GitHub to host my repos for many years. And I always felt like it doesn't provide me with the full picture statistic-wise.
 
-Feel same? 🚀 Start using [Ÿ HŸPE] to know what's going on with your professional profile! Improved GitHub statistics of profile views, followers and even more... 🤔 Still not sure about complex tools and just want simple public badge to count visitors? Take [GitHub Profile Views Counter].
+🤔 Feeling the same? 🚀 Try [Ÿ HŸPE] to learn what's going on with your professional profile!
+You'll get improved statistics on your profile views, your followers and more!
+The roadmap has a number of useful features to come!
+
+In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=antonkomarev">
