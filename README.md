@@ -27,7 +27,7 @@ In case you would simply like a public badge to count your visitors, try [GitHub
     <img src="https://komarev.com/ghpvc/?username=antonkomarev">
 </a>
 
-[Ÿ HŸPE]: https://yhype.halp.im
+[Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
-![](https://hit.yhype.halp.im/github/profile?user_id=1849174)
+![](https://hit.yhype.me/github/profile?user_id=1849174)
