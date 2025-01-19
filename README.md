@@ -21,7 +21,7 @@ My name is Anton Komarev. I've been using GitHub to host my projects for many ye
 You'll get improved statistics on your profile views, your followers, repositories traffic, stars, trends and more!
 The roadmap has a number of useful features to come!
 
-In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
+In case you would simply like a public badge to count your visitors on your profile page, try [GitHub Profile Views Counter].
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
