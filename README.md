@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Anton. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
 
 🤔 Feeling the same? 🚀 Try [Ÿ HŸPE] to learn what's going on with your professional profile!
-You'll get improved statistics on your profile views, your followers, repositories traffic, stars and more!
+You'll get improved statistics on your profile views, your followers, repositories traffic, stars, trends and more!
 The roadmap has a number of useful features to come!
 
 In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
